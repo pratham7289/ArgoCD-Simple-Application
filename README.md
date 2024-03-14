@@ -1,5 +1,4 @@
-# ArgoCD-Simple-Deployment
-
+# ArgoCD-Simple-Application Creatoin
 This guide will walk you through the process of installing Argo CD on a Kubernetes cluster, logging in, and creating an application using Guestbook as an example.
 
 ## Installation
